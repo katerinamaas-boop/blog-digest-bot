@@ -1,0 +1,6 @@
+{
+  "name": "blog-digest-bot",
+  "version": "1.0.0",
+  "description": "Daily news digest bot for blog",
+  "private": true
+}
